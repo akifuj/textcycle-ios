@@ -1,0 +1,47 @@
+[
+ {
+ "user_id": 0,
+ "title": "カラマーゾフの兄弟（1）",
+ "author": "フョードル・ミハイロヴィチ・ドストエフス/亀山郁夫",
+ "publisher": "光文社",
+ "listPrice": "",
+ "image": "http://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/3347/33475106.jpg?_ex=200x200",
+  "category": 5,
+ "condition": 1,
+ "price": 500
+ },
+ {
+ "user_id": 0,
+ "title": "ミクロ経済学の力",
+ "author": "神取道宏",
+ "publisher": "日本評論社",
+  "listPrice": "",
+ "image": "http://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/7567/9784535557567.jpg?_ex=200x200",
+ "category": 2,
+ "condition": 1,
+ "price": 500
+ 
+ },
+ {
+ "user_id": 0,
+ "title": "経済学私小説　&lt;定常&gt;の中の豊かさ",
+ "author": "齋藤誠",
+ "publisher":"日経BP社",
+  "listPrice": "",
+ "image": "http://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1024/9784822251024.jpg?_ex=200x200",
+ "category": 2,
+ "condition": 1,
+ "price": 500
+ },
+ {
+ "user_id": ,
+ "title": "日の名残り",
+ "author": "カズオ・イシグロ/土屋政雄",
+ "publisher": "早川書房",
+  "listPrice": "",
+ "image": "http://thumbnail.image.rakuten.co.jp/@0_mall/book/cabinet/1512/15120003.jpg?_ex=200x200",
+ "category": 2,
+ "condition": 1,
+ "price": 500
+ }
+]
