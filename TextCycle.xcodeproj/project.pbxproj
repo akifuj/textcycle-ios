@@ -98,7 +98,7 @@
 		B8527FBB1EE2648A0075B1E0 /* CustomTable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTable.swift; sourceTree = "<group>"; };
 		B8527FBD1EE26CD00075B1E0 /* list.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = list.png; sourceTree = "<group>"; };
 		B8527FBF1EE26CD70075B1E0 /* open-book.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "open-book.png"; sourceTree = "<group>"; };
-		B8527FC11EE26CE00075B1E0 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = icon.png; sourceTree = "<group>"; };
+		B8527FC11EE26CE00075B1E0 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = ../icon.png; sourceTree = "<group>"; };
 		B8527FC31EE26CE70075B1E0 /* user-silhouette.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "user-silhouette.png"; sourceTree = "<group>"; };
 		B8527FC51EE26CEC0075B1E0 /* barcode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = barcode.png; sourceTree = "<group>"; };
 		B878C49F1ED7D87600A2DDEF /* CaptureViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CaptureViewModel.swift; sourceTree = "<group>"; };
@@ -194,7 +194,6 @@
 				B8A395501EDF844800231E86 /* ModifyProfileTableViewController.swift */,
 				B8A3954A1EDF77EB00231E86 /* MyPageViewController.swift */,
 			);
-			name = MyPage;
 			path = MyPage;
 			sourceTree = "<group>";
 		};
@@ -205,20 +204,19 @@
 				B8A395521EDF845D00231E86 /* ModifyProfileViewModel.swift */,
 				B818930C1EDE4160000F22BA /* MyPageViewModel.swift */,
 			);
-			name = MyPage;
 			path = MyPage;
 			sourceTree = "<group>";
 		};
 		B83C8DBA1EE22E4900C6C98D /* Image */ = {
 			isa = PBXGroup;
 			children = (
+				B8527FC11EE26CE00075B1E0 /* icon.png */,
 				B8527FC51EE26CEC0075B1E0 /* barcode.png */,
 				B83C8DBB1EE22E6500C6C98D /* green_logo.png */,
 				B8527FBD1EE26CD00075B1E0 /* list.png */,
 				B8527FBF1EE26CD70075B1E0 /* open-book.png */,
 				B8527FC31EE26CE70075B1E0 /* user-silhouette.png */,
 			);
-			name = Image;
 			path = Image;
 			sourceTree = "<group>";
 		};
@@ -228,7 +226,6 @@
 				B89B481E1ED50E3F00AB73C0 /* LoginViewController.swift */,
 				B842730D1EDBAB69004BCEA0 /* SignupTableViewController.swift */,
 			);
-			name = Registration;
 			path = Registration;
 			sourceTree = "<group>";
 		};
@@ -238,7 +235,6 @@
 				B89B481C1ED4FB3200AB73C0 /* LoginViewModel.swift */,
 				B842730F1EDBABF4004BCEA0 /* SignupViewModel.swift */,
 			);
-			name = Registration;
 			path = Registration;
 			sourceTree = "<group>";
 		};
@@ -248,7 +244,6 @@
 				B839696E1ED6A26700A92892 /* CaptureViewController.swift */,
 				B878C4A51ED7E56D00A2DDEF /* ExhibitFormTableViewController.swift */,
 			);
-			name = Exhibit;
 			path = Exhibit;
 			sourceTree = "<group>";
 		};
@@ -258,7 +253,6 @@
 				B878C49F1ED7D87600A2DDEF /* CaptureViewModel.swift */,
 				B878C4A31ED7D8C800A2DDEF /* ExhibitFormViewModel.swift */,
 			);
-			name = Exhibit;
 			path = Exhibit;
 			sourceTree = "<group>";
 		};
@@ -270,7 +264,6 @@
 				B83A7D761EDD23EA004237F1 /* SearchTableViewController.swift */,
 				B84273071EDA45A9004BCEA0 /* SinglePostTableViewController.swift */,
 			);
-			name = Purchase;
 			path = Purchase;
 			sourceTree = "<group>";
 		};
@@ -281,7 +274,6 @@
 				B84273231EDD100F004BCEA0 /* SearchViewModel.swift */,
 				B84273091EDA45C3004BCEA0 /* SinglePostVIewModel.swift */,
 			);
-			name = Purchase;
 			path = Purchase;
 			sourceTree = "<group>";
 		};
@@ -292,7 +284,6 @@
 				B81893061EDD27AE000F22BA /* RakutenRouter.swift */,
 				B84273171EDBD498004BCEA0 /* UserRouter.swift */,
 			);
-			name = Manager;
 			path = Manager;
 			sourceTree = "<group>";
 		};
@@ -304,7 +295,6 @@
 				B878C4AD1ED7FAD100A2DDEF /* Options.swift */,
 				B8A395541EDFCB4700231E86 /* Register.swift */,
 			);
-			name = Utility;
 			path = Utility;
 			sourceTree = "<group>";
 		};
@@ -345,7 +335,6 @@
 				B89B47F01ED3F91000AB73C0 /* LaunchScreen.storyboard */,
 				B89B47EB1ED3F91000AB73C0 /* Main.storyboard */,
 				B89B48151ED3F92200AB73C0 /* TextCycle.entitlements */,
-				B8527FC11EE26CE00075B1E0 /* icon.png */,
 			);
 			path = TextCycle;
 			sourceTree = "<group>";
@@ -376,7 +365,6 @@
 				B84273161EDBACB9004BCEA0 /* Purchase */,
 				B84273121EDBAC21004BCEA0 /* Registration */,
 			);
-			name = ViewModel;
 			path = ViewModel;
 			sourceTree = "<group>";
 		};
@@ -386,7 +374,6 @@
 				B878C4B51ED9121D00A2DDEF /* Post.swift */,
 				B83DFA6F1ED94755008DE037 /* User.swift */,
 			);
-			name = Model;
 			path = Model;
 			sourceTree = "<group>";
 		};
@@ -400,7 +387,6 @@
 				B842730B1EDBAAD8004BCEA0 /* InitialViewController.swift */,
 				B878C4A81ED7FA8100A2DDEF /* OptionsTableViewController.swift */,
 			);
-			name = ViewController;
 			path = ViewController;
 			sourceTree = "<group>";
 		};
