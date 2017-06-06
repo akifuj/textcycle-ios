@@ -98,7 +98,7 @@
 		B8527FBB1EE2648A0075B1E0 /* CustomTable.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CustomTable.swift; sourceTree = "<group>"; };
 		B8527FBD1EE26CD00075B1E0 /* list.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = list.png; sourceTree = "<group>"; };
 		B8527FBF1EE26CD70075B1E0 /* open-book.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "open-book.png"; sourceTree = "<group>"; };
-		B8527FC11EE26CE00075B1E0 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = ../icon.png; sourceTree = "<group>"; };
+		B8527FC11EE26CE00075B1E0 /* icon.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = icon.png; path = icon.png; sourceTree = "<group>"; };
 		B8527FC31EE26CE70075B1E0 /* user-silhouette.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "user-silhouette.png"; sourceTree = "<group>"; };
 		B8527FC51EE26CEC0075B1E0 /* barcode.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = barcode.png; sourceTree = "<group>"; };
 		B878C49F1ED7D87600A2DDEF /* CaptureViewModel.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CaptureViewModel.swift; sourceTree = "<group>"; };
@@ -210,9 +210,9 @@
 		B83C8DBA1EE22E4900C6C98D /* Image */ = {
 			isa = PBXGroup;
 			children = (
-				B8527FC11EE26CE00075B1E0 /* icon.png */,
 				B8527FC51EE26CEC0075B1E0 /* barcode.png */,
 				B83C8DBB1EE22E6500C6C98D /* green_logo.png */,
+				B8527FC11EE26CE00075B1E0 /* icon.png */,
 				B8527FBD1EE26CD00075B1E0 /* list.png */,
 				B8527FBF1EE26CD70075B1E0 /* open-book.png */,
 				B8527FC31EE26CE70075B1E0 /* user-silhouette.png */,
