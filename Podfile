@@ -11,7 +11,7 @@ target 'TextCycle' do
 	pod ‘Alamofire’
 	pod ‘SwiftyJSON’
 	pod 'Fabric'
-	pod 'Digits'    
+	pod 'Digits'
 	pod 'TwitterCore'
 
   target 'TextCycleTests' do
